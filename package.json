@@ -47,7 +47,6 @@
     "react-infinite-scroller": "^1.2.4",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
-    "react-virtualized": "^9.21.0",
     "reqwest": "^2.0.5",
     "resolve": "1.8.1",
     "sass-loader": "7.1.0",
@@ -57,7 +56,11 @@
     "webpack": "4.19.1",
     "webpack-dev-server": "3.1.14",
     "webpack-manifest-plugin": "2.0.4",
-    "workbox-webpack-plugin": "3.6.3"
+    "workbox-webpack-plugin": "3.6.3",
+    "koa": "2.6.2",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6",
+    "twit": "^2.2.11"
   },
   "scripts": {
     "start": "node scripts/start.js",
