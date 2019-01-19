@@ -1,0 +1,14 @@
+.infinite-container {
+    border: 1px solid #e8e8e8;
+    border-radius: 4px;
+    padding: 8px 24px;
+    margin: 16px;
+    height: 80%;
+    overflow: auto;
+  }
+  .loading-container {
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    text-align: center;
+  }
